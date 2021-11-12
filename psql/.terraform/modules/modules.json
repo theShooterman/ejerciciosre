@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"postgresql-db","Source":"github.com/GoogleCloudPlatform/terraform-google-sql-db","Dir":".terraform/modules/postgresql-db"}]}
